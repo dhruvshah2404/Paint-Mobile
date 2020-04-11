@@ -49,7 +49,7 @@ function lines() {
 			delete lastPt[id];
 		}
 	}
-};
+}; 	
 
 
 	//Color palette
